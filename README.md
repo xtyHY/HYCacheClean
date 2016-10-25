@@ -1,6 +1,13 @@
 # HYCacheClean
 缓存垃圾清理工具类
 
+## 功能简介
+1. 异步计算 指定文件目录组 下 所有文件 大小
+2. 异步清理 指定文件目录组 下 所有文件
+3. 计算和清理完成时支持完成回调
+4. 默认加入清除SDWebImage DiskCache
+
+## 预览图
 ![预览图](https://github.com/xtyHY/HYCacheClean/blob/master/HYCacheCleanDemo.gif)
 
 ## 使用方式
